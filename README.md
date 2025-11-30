@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 ## 🔥 Omeed Adham Sindy
-⭐️ Program Manager @ Google <br/>
+⭐️ Technical Project Manager @ CIBC <br/>
 🔥 Co-Founder of [jobboardai.io](https://jobboardai.io) <br/>
 🎨 Computer Science Lecturer at Northeastern Illinois University (NEIU)
 🎥 Making videos about AI/ML, tech, and CS lectures on [YouTube](https://www.youtube.com/@omeedadhamsindy)<br/>
