@@ -2,7 +2,7 @@
 
 ## 🔥 Omeed Adham Sindy
 ⭐️ Technical Project Manager @ CIBC <br/>
-🔥 Co-Founder of [jobboardai.io](https://jobboardai.io) <br/>
+🔥 Co-Founder of [OpenJobs](https://openjobshq.com) <br/>
 🎨 Computer Science Lecturer at Northeastern Illinois University (NEIU)
 🎥 Making videos about AI/ML, tech, and CS lectures on [YouTube](https://www.youtube.com/@omeedadhamsindy)<br/>
 🙌 Co-Founder & Executive Director of [Maleiha Carino Foundation](https://mcarinofdn.org) (MCF)<br/>
